@@ -1,0 +1,12 @@
+site_name: my1
+site_url: https://240596448.github.io/testMD/
+nav:
+  - Home: 
+    - index.md
+  - Страница 1:
+    - page1.md
+  - Страница 2:
+    - param/page2.1.md
+    - param/page2.2.md
+theme: 
+  readthedocs
